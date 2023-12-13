@@ -1,9 +1,9 @@
 ---
-title: "Graduation Sell"
+# title: "Graduation Sell"
 alias:
 type: note
 created: 2023-12-06T00:31:34
-modified: 2023-12-06T01:40:43
+modified: 2023-12-13T04:42:45
 sup:
 state: "[[%wip]]"
 ---
