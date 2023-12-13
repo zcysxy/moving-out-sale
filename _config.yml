@@ -5,5 +5,7 @@ relative_links:
   collections: true
 include:
   - sell.md
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
+name: true
 title: false
+
