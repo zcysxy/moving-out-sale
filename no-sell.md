@@ -1,3 +1,7 @@
+## Other
+
+- Apple watch
+- Airpods
 
 ## Store
 

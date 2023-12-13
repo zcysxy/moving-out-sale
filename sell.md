@@ -12,14 +12,12 @@ state: "[[%wip]]"
 
 ## Sale List
 
-- [4K Display](#display) ~~$225~~ **$150**
+- [27'' 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$150**
 - [Coffee machine](#coffee-machine) ~~$80~~ **$30**
 - [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
-- [Full-size Mattress](#mattress-support) ~~$50~~ **$40**
+- [Full-size Mattress](#mattress-support) <!-- ~~$50~~ --> ~~$100~~ **$50**
 - [Mattress support/bed slats](#mattress-support) ~~$49~~ **$20 or $10 with mattress**
-- Router ~~$27~~ **$15**
-- Apple watch
-- Airpods
+- [Router](#router) ~~$27~~ **$15**
 - Fan
 - Lamp
 - Keyboard with palm rest
@@ -34,6 +32,7 @@ state: "[[%wip]]"
 ### Display
 
 - Used for 2 years
+- Same model as TC Library
 
 ![Display - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png)
 
@@ -44,6 +43,10 @@ state: "[[%wip]]"
 ![Coffee - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012448.png)
 
 ### Mattress & Support
+
+- Used for 1 year
+- Full-size
+- Firm, not too soft
 
 ![Slats - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012739.png)
 
