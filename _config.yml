@@ -6,6 +6,6 @@ relative_links:
 include:
   - sell.md
 remote_theme: riggraz/no-style-please
-name: true
-title: false
+name: sell
+title: null
 
