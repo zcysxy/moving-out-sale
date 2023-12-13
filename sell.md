@@ -12,12 +12,12 @@ state: "[[%wip]]"
 
 ## Sale List
 
-- [27'' 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$150**
+- [27" 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$150**
 - [Coffee machine](#coffee-machine) ~~$80~~ **$30**
-- [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
 - [Full-size Mattress](#mattress-support) <!-- ~~$50~~ --> ~~$100~~ **$50**
-- [Mattress support/bed slats](#mattress-support) ~~$49~~ **$20 or $10 with mattress**
+- [Mattress support/bed slats](#mattress-support) ~~$49~~ **$20 or free with mattress**
 - [Router](#router) ~~$27~~ **$15**
+- [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
 - Fan
 - Lamp
 - Keyboard with palm rest
@@ -28,6 +28,8 @@ state: "[[%wip]]"
 
 - Used for 1 year
 - 13.5" x 49.5"
+
+![Mirror]
 
 ### Display
 
@@ -47,10 +49,14 @@ state: "[[%wip]]"
 - Used for 1 year
 - Full-size
 - Firm, not too soft
+- Suitable for widening twin-size bed
 
 ![Slats - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012739.png)
 
 ### Router
+
+- Used for 3 months
+- Suitable for Columbia Residential
 
 ![Router - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013453.png)
 
