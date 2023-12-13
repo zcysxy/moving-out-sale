@@ -29,7 +29,7 @@ state: "[[%wip]]"
 
 ### Display
 
-- Used for 2 years
+- Used for 2 years, perfect condition
 - Same model as TC Library
 
 ![Display - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png)
