@@ -3,7 +3,7 @@
 alias:
 type: note
 created: 2023-12-06T00:31:34
-modified: 2023-12-13T04:51:57
+modified: 2023-12-13T05:37:27
 sup:
 state: "[[%wip]]"
 ---
@@ -19,7 +19,7 @@ state: "[[%wip]]"
 - [Fan](#fan) ~~$70~~ **$30**
 - [Router](#router) ~~$27~~ **$15**
 - [Brand-new mechanical keyboard](#keyboard)
-- [Lamp](#lamp) ~~$20~~ **$10**
+- [Lamp & light bulbs](#lamp--light-bulbs) ~~$20~~ **$8**
 - [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
 
 ## Information
@@ -70,9 +70,12 @@ state: "[[%wip]]"
 
 ![Router - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013453.png)
 
-### Lamp
+### Lamp & Light Bulbs
 
-![Lamp - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/lamp.png)
+- Nearly new, seldom used
+- Incandescent light bulbs, good for eyes
+
+![Lamp](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231213053723.png)
 
 ### Mirror
 
@@ -80,4 +83,3 @@ state: "[[%wip]]"
 - [Size]
 
 ![Mirror]
-
