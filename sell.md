@@ -10,6 +10,9 @@ state: "[[%wip]]"
 
 # Moving Out Sale
 
+**Contact:** [Facebook]
+**Address:** 535 W 113th St
+
 ## Sale List
 
 - [27" 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$100**
@@ -53,6 +56,7 @@ state: "[[%wip]]"
 
 - Used for 1 year
 - I didn't need an AC in summer with this fan
+- Remote control
 
 ![Fan - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.png)
 
