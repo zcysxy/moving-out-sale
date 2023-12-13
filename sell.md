@@ -12,24 +12,17 @@ state: "[[%wip]]"
 
 ## Sale List
 
-- [27" 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$150**
+- [27" 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$100**
 - [Coffee machine](#coffee-machine) ~~$80~~ **$30**
-- [Full-size Mattress](#mattress-support) <!-- ~~$50~~ --> ~~$100~~ **$50**
-- [Mattress support/bed slats](#mattress-support) ~~$49~~ **$20 or free with mattress**
+- [Full-size Mattress](#mattress--support) <!-- ~~$50~~ --> ~~$100~~ **$50**
+- [Mattress support/bed slats](#mattress--support) ~~$49~~ **$20 or free with mattress**
+- [Fan](#fan) ~~$70~~ **$30**
 - [Router](#router) ~~$27~~ **$15**
+- [Brand-new mechanical keyboard](#keyboard)
+- [Lamp](#lamp) ~~$20~~ **$10**
 - [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
-- Fan
-- Lamp
-- Keyboard with palm rest
 
 ## Information
-
-### Mirror
-
-- Used for 1 year
-- 13.5" x 49.5"
-
-![Mirror]
 
 ### Display
 
@@ -41,8 +34,11 @@ state: "[[%wip]]"
 ### Coffee Machine
 
 - Used for 1 year
+- Bundle with [10] coffee cups for free
 
 ![Coffee - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012448.png)
+
+![Coffee]
 
 ### Mattress & Support
 
@@ -53,10 +49,35 @@ state: "[[%wip]]"
 
 ![Slats - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012739.png)
 
+### Fan
+
+- Used for 1 year
+- I didn't need an AC in summer with this fan
+
+![Fan - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.png)
+
+![Fan](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.jpeg)
+
+### Keyboard
+
+- Brand new
+- Bundle with a palm rest for free
+
 ### Router
 
 - Used for 3 months
 - Suitable for Columbia Residential
 
 ![Router - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013453.png)
+
+### Lamp
+
+![Lamp - Amazon](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/lamp.png)
+
+### Mirror
+
+- Used for 1 year
+- [Size]
+
+![Mirror]
 
