@@ -3,12 +3,12 @@
 alias:
 type: note
 created: 2023-12-06T00:31:34
-modified: 2023-12-13T04:42:45
+modified: 2023-12-13T04:43:21
 sup:
 state: "[[%wip]]"
 ---
 
-# Graduation Sell
+# Moving Out Sale
 
 ## Sale List
 
