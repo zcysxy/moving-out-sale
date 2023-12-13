@@ -10,7 +10,7 @@ state: "[[%wip]]"
 
 # Moving Out Sale
 
-**Contact:** [Facebook]
+**Contact:** [Facebook]  
 **Address:** 535 W 113th St
 
 ## Sale List
