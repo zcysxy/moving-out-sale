@@ -13,4 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - sell.md
-theme: jekyll-theme-minima
+remote_theme: no-style-please
