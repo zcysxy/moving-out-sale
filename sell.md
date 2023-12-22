@@ -3,14 +3,14 @@
 alias:
 type: note
 created: 2023-12-06T00:31:34
-modified: 2023-12-21T23:22:27
+modified: 2023-12-21T23:24:27
 sup:
 state: "[[%wip]]"
 ---
 
 # Moving Out Sale
 
-- 📞 **Contact:** [Facebook]  
+- 📞 **Messenger:** <m.me/zcysxy>
 - 🏠 **Address:** 536 W 113th St
 - ❗ All items are in perfect condition
 
@@ -35,8 +35,9 @@ state: "[[%wip]]"
 - Used for 2 years, in perfect condition
 - The same model used by TC Library
 
-![Display - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png)
-![Display\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/display.jpg)
+![Display - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png){width=400pt}
+
+![Display\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/display.jpg){width=400pt}
 
 ### Coffee Machine
 
@@ -44,7 +45,7 @@ state: "[[%wip]]"
 - Used for 1 year
 - Bundle with [10] coffee cups for free
 
-![Coffee - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012448.png)
+![Coffee - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012448.png){width=400pt}
 
 ### Mattress & Support
 
@@ -54,7 +55,7 @@ state: "[[%wip]]"
 - Firm, not too soft
 - Suitable for widening twin-size bed frames
 
-![Slats - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012739.png)
+![Slats - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206012739.png){width=400pt}
 
 ### Fan
 
@@ -63,9 +64,9 @@ state: "[[%wip]]"
 - I didn't need an AC in summer with this fan
 - Remote control
 
-![Fan - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.png)
+![Fan - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.png){width=400pt}
 
-![Fan\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.jpeg)
+![Fan\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/fan.jpeg){width=400pt}
 
 ### Lamp & Light Bulbs
 
@@ -73,7 +74,7 @@ state: "[[%wip]]"
 - Nearly new, rarely used
 - Incandescent light bulbs, good for the eyes
 
-![Lamp\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231213053723.png)
+![Lamp\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231213053723.png){width=400pt}
 
 ### Mirror
 
@@ -84,7 +85,7 @@ state: "[[%wip]]"
 - Used for 3 months
 - Suitable for Columbia Residential
 
-![Router - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013453.png)
+![Router - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013453.png){width=400pt}
 
 ### Keyboard
 
