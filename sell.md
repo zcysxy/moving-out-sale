@@ -10,34 +10,23 @@ state: "[[%wip]]"
 
 # Moving Out Sale
 
-- 📞 **Messenger:** <m.me/zcysxy>
+- 📞 **Messenger:** m.me/zcysxy
 - 🏠 **Address:** 536 W 113th St
-- ❗ All items are in perfect condition
+- ❗ All items are in perfect condition!
 
 ## Sale List
 
-- [27" 4K Display](#display) <!-- ~~$225~~ --> ~~$300~~ **$100**
 - [Coffee machine](#coffee-machine) ~~$80~~ **$30**
 - [Full-size Mattress](#mattress--support) <!-- ~~$50~~ --> ~~$100~~ **$50**
 - [Mattress support/bed slats](#mattress--support) ~~$59~~ **$20 or free with mattress**
 - [Fan](#fan) ~~$70~~ **$30**
 - [Lamp & light bulbs](#lamp--light-bulbs) ~~$20~~ **$8**
 - [Full-length mirror](#mirror) ~~$20~~ **free with any purchase**
-- **Sold** ~~[Router](#router)~~ <!-- $27 **$15**-->
-- **Sold**! ~~[Brand-new mechanical keyboard](#keyboard)~~
+- **Sold!** ~~[27" 4K Display](#display)~~ <!-- ~~$225~~ ~~$300~~ **$100**-->
+- **Sold!** ~~[Router](#router)~~ <!-- $27 **$15**-->
+- **Sold!** ~~[Brand-new mechanical keyboard](#keyboard)~~
 
 ## Information
-
-### Display
-
-- ~~$300~~ **$100**
-- 27 Inches, 4K, 60 Hz, Type-C + HDMI
-- Used for 2 years, in perfect condition
-- The same model used by TC Library
-
-![Display - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png){width=400pt}
-
-![Display\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/display.jpg){width=400pt}
 
 ### Coffee Machine
 
@@ -79,6 +68,31 @@ state: "[[%wip]]"
 ### Mirror
 
 - Used for 1 year
+
+<!--
+### Display
+
+- ~~$300~~ **$100**
+- 27 Inches, 4K, 60 Hz, Type-C + HDMI
+- Used for 2 years, in perfect condition
+- The same model used by TC Library
+
+![Display - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png){width=400pt}
+
+![Display\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/display.jpg){width=400pt}
+
+
+### Display
+
+- ~~$300~~ **$100**
+- 27 Inches, 4K, 60 Hz, Type-C + HDMI
+- Used for 2 years, in perfect condition
+- The same model used by TC Library
+
+![Display - Amazon\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/20231206013958.png){width=400pt}
+
+![Display\|150](https://raw.githubusercontent.com/zcysxy/Figurebed/master/img/display.jpg){width=400pt}
+
 
 ### Router
 
